@@ -36,6 +36,26 @@ $0 awscli
 $0 etckeeper
 $0 fix_max_user_watches
 $0 fix_sudo
+$0 clementine
+$0 Ao
+$0 composer
+$0 chromium-browser
+$0 flatpak
+$0 gparted
+$0 gpodder
+$0 htop
+$0 inkscape
+$0 gimp
+$0 lm-sensors
+$0 lame
+$0 filezilla
+$0 handbrake
+$0 molotov
+$0 picard
+$0 libdvd-pkg
+$0 setup-git
+$0 setup-docker
+$0 firefox-dev
 # End Commands
 
 run_todo
